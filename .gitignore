@@ -1,7 +1,3 @@
-# Power BI
-*.pbi*
-*.pbip
-
 # OS / editor noise
 .DS_Store
 Thumbs.db
