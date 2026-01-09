@@ -14,7 +14,7 @@ Analizei naudojami vieši, agreguoti duomenys, integruoti Power BI ataskaitoje.
 ## Technologijos
 - Power BI Desktop
 - DAX
-- Reliacinis duomenų modelis
+- Vienos lentelės duomenų modelis
 
 ## Failai
 - `powerbi/gpm_paramos_analize_2021_2023.pbix` – Power BI ataskaita
