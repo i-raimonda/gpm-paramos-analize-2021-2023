@@ -20,5 +20,5 @@ Analizei naudojami vieši, agreguoti duomenys, integruoti Power BI ataskaitoje.
 - `powerbi/gpm_paramos_analize_2021_2023.pbix` – Power BI ataskaita
 
 ---
-Ataskaita parengta Power BI Desktop
-Paruošta publikavimui: 2026-01-09
+- Ataskaita parengta Power BI Desktop
+- Paruošta publikavimui: 2026-01-09
